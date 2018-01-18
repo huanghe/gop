@@ -1,0 +1,2 @@
+# gop
+only practice golang
